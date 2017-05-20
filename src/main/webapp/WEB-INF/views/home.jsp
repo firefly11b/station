@@ -14,6 +14,5 @@
 
 	<h4>check_cnt : ${check_cnt}</h4>
 
-	<a href="/test"  >test</a>
 </body>
 </html>
